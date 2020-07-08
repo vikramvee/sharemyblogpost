@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/adam/6E4470EC4470B883/Github/dotnetcore-mvc/dotnetcore-mvc.csproj": {}
+    "/media/adam/6E4470EC4470B883/Github/sharemyblogpost/dotnetcore-mvc.csproj": {}
   },
   "projects": {
-    "/media/adam/6E4470EC4470B883/Github/dotnetcore-mvc/dotnetcore-mvc.csproj": {
+    "/media/adam/6E4470EC4470B883/Github/sharemyblogpost/dotnetcore-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/adam/6E4470EC4470B883/Github/dotnetcore-mvc/dotnetcore-mvc.csproj",
+        "projectUniqueName": "/media/adam/6E4470EC4470B883/Github/sharemyblogpost/dotnetcore-mvc.csproj",
         "projectName": "dotnetcore-mvc",
-        "projectPath": "/media/adam/6E4470EC4470B883/Github/dotnetcore-mvc/dotnetcore-mvc.csproj",
+        "projectPath": "/media/adam/6E4470EC4470B883/Github/sharemyblogpost/dotnetcore-mvc.csproj",
         "packagesPath": "/home/adam/.nuget/packages/",
-        "outputPath": "/media/adam/6E4470EC4470B883/Github/dotnetcore-mvc/obj/",
+        "outputPath": "/media/adam/6E4470EC4470B883/Github/sharemyblogpost/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

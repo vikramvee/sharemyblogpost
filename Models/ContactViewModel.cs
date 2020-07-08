@@ -10,7 +10,7 @@ namespace dotnetcore_mvc.Models
        public string Name{ get; set; }
 
        [Required]
-       [EmailAddress(ErrorMessage = "Emails address is mandatory")]
+       [EmailAddress(ErrorMessage = "Emails is not valid")]
        public string Email { get; set; }
 
         [Required(ErrorMessage = "Subject is mandatory")]

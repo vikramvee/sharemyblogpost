@@ -2,6 +2,10 @@
 @{
     ViewData["Title"] = "Contact";
 }
+@section Scripts{
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
 
 <form method="post">
     <label asp-validation-summary="ModelOnly"></label>
@@ -26,5 +30,5 @@
     <span asp-validation-for="Message"></span>
     <br />
     <input type="submit" value="Message"/>
-    
+    <div>@ViewBag.UserMessage</div>
 </form>
